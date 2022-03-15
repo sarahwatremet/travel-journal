@@ -1,0 +1,11 @@
+.navbar {
+    display: flex;
+    background-color: #E84A5F;
+    justify-content: center;
+    color: #F4F6F6;
+
+}
+
+#globe--icon {
+  margin-right: 10px;
+}
