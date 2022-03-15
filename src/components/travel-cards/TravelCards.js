@@ -14,7 +14,7 @@ export default function TravelCards(props) {
 
             <div className="travel--info">
                 <div className="travel--location">
-                    <img className="location--pointer" alt="pointer icon" src="../images/pointer.svg"></img>
+                    <img className="location--pointer" alt="pointer icon" src={process.env.PUBLIC_URL + "/images/pointer.svg"}></img>
                     <span className="travel--country">{props.item.location}</span>
                     <span className="travel--url"><a href={ props.item.googleMapsUrl }>View on Google Maps</a></span>
                 </div>

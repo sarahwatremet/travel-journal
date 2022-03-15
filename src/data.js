@@ -1,3 +1,4 @@
+// {process.env.PUBLIC_URL + '/images/picture_swimmers.png'}
 
 let travelsData = [
     {
@@ -8,7 +9,7 @@ let travelsData = [
         startDate: "1 August, 2021",
         endDate: "7 August, 2021",
         description: "Mount Kilimanjaro is the tallest mountain in Africa, standing at 5,895 meters . Mount Kilimanjaro is also the highest free standing mountain and one of the largest volcanoes in the world. It's one of the biggest pride of Tanzania.",
-        imageUrl: "./build/images/IMG_2131.png"
+        imageUrl: process.env.PUBLIC_URL + '/images/IMG_2131.png' 
     },
 
     {
@@ -19,7 +20,7 @@ let travelsData = [
         startDate:"13 August 2019",
         endDate:"31 August 2019",
         description:"The National Park of Plitvice, in Croatia, lengths 295km2 and is famous for its 16 lakes linked by waterfalls, in limestone canyons. There are numerous wood bridges for hiking, and also an electric boat to cruise onto the lakes.",
-        imageUrl:"./build/images/IMG_5605.png",
+        imageUrl: process.env.PUBLIC_URL + '/images/IMG_5605.png'
     },
 
     {
@@ -30,7 +31,7 @@ let travelsData = [
         startDate:"3 August 2018",
         endDate:"20 August 2018",
         description:"Petra is a famous archeological site in the South-West desert of Jordan. Founded in around 300 B.C by the Nabateens, it encloses numerous tombs and temples in pink sandstone.",
-        imageUrl:"./build/images/IMG_2516.png",
+        imageUrl: process.env.PUBLIC_URL + '/images/IMG_2516.png',
     },
 
     {
@@ -41,7 +42,7 @@ let travelsData = [
         startDate:"28 January 2021",
         endDate:"6 February 2021",
         description:"Martinique island is part of the French Caribbeans, and is famous for its beautiful beaches, hiking trails, rhum, and of course its sun and nice weather.",
-        imageUrl:"./build/images/IMG_0034.png",
+        imageUrl: process.env.PUBLIC_URL + '/images/IMG_0034.png',
     }
 ]
 
