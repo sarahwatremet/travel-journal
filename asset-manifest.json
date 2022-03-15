@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/sarahwatremet/travel-journal/static/css/main.a6318c03.css",
-    "main.js": "/sarahwatremet/travel-journal/static/js/main.dac34cce.js",
-    "index.html": "/sarahwatremet/travel-journal/index.html",
-    "main.a6318c03.css.map": "/sarahwatremet/travel-journal/static/css/main.a6318c03.css.map",
-    "main.dac34cce.js.map": "/sarahwatremet/travel-journal/static/js/main.dac34cce.js.map"
+    "main.css": "/travel-journal/static/css/main.a6318c03.css",
+    "main.js": "/travel-journal/static/js/main.5f8cf23e.js",
+    "index.html": "/travel-journal/index.html",
+    "main.a6318c03.css.map": "/travel-journal/static/css/main.a6318c03.css.map",
+    "main.5f8cf23e.js.map": "/travel-journal/static/js/main.5f8cf23e.js.map"
   },
   "entrypoints": [
     "static/css/main.a6318c03.css",
-    "static/js/main.dac34cce.js"
+    "static/js/main.5f8cf23e.js"
   ]
 }
